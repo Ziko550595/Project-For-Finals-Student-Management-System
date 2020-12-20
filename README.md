@@ -11,5 +11,8 @@ Create a Table in Mysql named 'student' in db2 database
       ) 
       
       
+<img src="screenshots/mainPage.png" alt="" width="250"/>
+
 <img src="screenshots/main.png" alt="" width="250"/>
 <img src="screenshots/added.png" alt="" width="250"/>
+<img src="screenshots/view.png" alt="" width="250"/>
