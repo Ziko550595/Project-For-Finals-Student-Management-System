@@ -1,3 +1,9 @@
+Team members:
+On this project worked: 
+                       Ziedillo Shakirov
+                       Kypchakbaev Kairat
+
+
 # Ala-Too University Student Management System
 
 Create a Table in Mysql named 'student' in db2 database
