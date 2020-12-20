@@ -1,4 +1,4 @@
-Team members: /n
+Team members: \n
 On this project worked: 
                        Ziedillo Shakirov
                        Kypchakbaev Kairat
