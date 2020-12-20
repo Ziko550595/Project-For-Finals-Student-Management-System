@@ -1,5 +1,5 @@
 On this project worked: 
-                       Ziedillo Shakirov
+                       Ziedillo Shakirov and
                        Kypchakbaev Kairat
 
 
